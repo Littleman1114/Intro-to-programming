@@ -14,6 +14,7 @@ elif tweet == 'THX':
     print('THX = Thank you')
 elif tweet == 'TTYL':
     print('TTYL = Talk to you later')
+elif tweet == 
 else:
     print("Sorry, don't know that one")
 tweet = input('Enter tweet 160 characters or less')
